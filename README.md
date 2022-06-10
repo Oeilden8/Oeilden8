@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub Profile ! 🐈 🧶 🖥️
+
+Je code, j'aime les chats, et je fais des peluches en crochet 😸
+Dans la vie comme dans le dev, je manie les Hooks (=crochet), en plus des outils habituels : HTML/CSS, Javascript, React, Node.js, Express et MySQL.
+
+Je craft des petits composants, que je peux réutiliser sur des projets différents (comme des patounes!), et pour finir, je les assemble pour former ma peluche. Des fois ça fonctionne du premier coup, et des fois je dois adapter : je défais quelques rangs, ou je recommence mon composant.
+
+Tout ceci en suivant un patron, avec précision et patience. Parfois je dois chercher des informations sur un type de maille que je ne connais pas, ou improviser pour personnaliser ma peluche.
+Si vous êtes développeur, cette méthodologie ne vous est sans doute pas inconnue!
+
+Par contre je n'ai pas encore trouvé de stack overflow du crochet, peut être que je tiens un concept 🤔
 
 <!--
 **Oeilden8/Oeilden8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
